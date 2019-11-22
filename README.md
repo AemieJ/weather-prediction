@@ -25,13 +25,22 @@ npm server.js
 
 3. In your respective browser , surf to ```localhost:3000``` to view the final webpage.
 
-## Further Understanding
+## Additional Notes
 
-1. For understanding the interaction of the weather API with the server side , run the following in the terminal 
+1. To get this app working on your local machine , add an ```api-key.json``` file. In the json file , get your api-key from weather API and add this api-key to your file in the following manner.
+
+```
+{
+  "key" : "" 
+}
+```
+
+2. For understanding the interaction of the weather API with the server side , run the following in the terminal 
 
 ```
 node index.js
 ```
+
 
 ## Built With
 
