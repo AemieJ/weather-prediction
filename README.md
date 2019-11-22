@@ -27,7 +27,7 @@ npm server.js
 
 ## Additional Notes
 
-1. To get this app working on your local machine , add an ```api-key.json``` file. In the json file , get your api-key from weather API and add this api-key to your file in the following manner.
+1. To get this app working on your local machine , add an ```api-key.json``` file. In the json file , get your api-key from [weather API](https://openweathermap.org/api) and add this api-key to your file in the following manner.
 
 ```
 {
